@@ -1,0 +1,17 @@
+{
+  "name": "Beer Runner",
+  "short_name": "BeerRunner",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#030712",
+  "theme_color": "#f59e0b",
+  "description": "Cours pour éliminer tes pintes !",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
