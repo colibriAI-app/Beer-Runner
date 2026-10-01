@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>icon-192.png</title>
+<style>
+body{font-family:system-ui;background:#030712;color:#fff;text-align:center;padding:20px;margin:0}
+img{border-radius:24px;box-shadow:0 4px 24px rgba(245,158,11,.4);margin:24px 0;-webkit-touch-callout:default;touch-callout:default}
+.nom{font-size:20px;font-weight:900;color:#f59e0b}
+.etape{font-size:15px;line-height:1.8;color:#d1d5db;background:#111827;border:1px solid #374151;border-radius:16px;padding:14px 18px;max-width:520px;margin:16px auto;text-align:left}
+b{color:#f59e0b}
+</style>
+</head>
+<body>
+<p class="nom">🍺 icon-192.png</p>
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAADTUlEQVR42u3dsU3DUBCA4fRZg2HYIfOwAANkDFokqnQegZIyFRKCJEYnEYREHDuOhfDd96S/o8DW+2RjEt/idb1spaotnAQBIAEgASABIAEgASABIAEgASABIAEgASABIAEgASABIAEgASABIAEgASABIAEgASABIAEgASABIAEgASABIAEgASABIAEgASABIAEgASABIAEgASABIAEgAbBetu/NXZtxxXHZxAB09vZw21ZYcZw2MwAlNz8EAJxs//JUCkAcrw0NwHcVlw0NAAACAAABAIAAAEAAACAAABAAAAgAAAQAAAIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMwOwP75vv14vJl9cRwAAHARgF2zSrH5j8XxAADAIACH7SbV5j8GAACDAGS59em7FbKhAQBAAAAgAAAQAAAIAAC+iiEaMVbpZwAAkBpAbPIhw0Li5ypOmQEgKYCxgwEDSyUIACQEMMV4qCoIAEgEYOrBgBXmjgGQ8ENxEAAAwIQr8+0QAEUAdD3lGfqUCAAAZglg6FOdvqdGWf9nAEBiAJfev/f9EQ0AALMCMOa8nbsSZLwKAJAUwDWbtdITIQCSArjm3J27CgAAAAAAAPCfAUxxrw4AAAAAAIBbIAAAAAAAADwG9RgUAP8IAwAAH4UAAAAfhgMAAB+HBgAAX4gBAABfiQQAAF+KBwAAr0UBAAAvxgIAAK9GBAAAL8cFAACvRwcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAgAAAQAAAIAAAEAAACAAABAAAAgAAAQCAAAAAgPwAYmUEUGWWLwATAMh2FTg1ItWGBqATQKzDdtPumtWsN378/nEclaa5AzCiKUaFzmmZ9wXAoKtA1mUzA/CrmIqY/UpQba4vACM6jgTNdsvjtgcACQAJAAkACQAJAAkACQAJAAkACQAJAAkACQAB4EQIAAkACQAJAAkACQAJAAkACQAJAAkACQAJAAkACQAJAAkACQAJAAkACQAJAAkACQAJAAkACQDp7/sEzc8sI/qViZ0AAAAASUVORK5CYII=" width="240" alt="icon-192.png">
+<div class="etape">
+📲 <b>Appui long sur l’image ci-dessus</b> → « Télécharger l’image » (ou « Enregistrer l’image »)<br><br>
+Puis sur GitHub (github.com/colibriAI-app/Beer-Runner) :<br>
+1️⃣ <b>Add file → Upload files</b><br>
+2️⃣ Choisir l’image depuis « Téléchargements »<br>
+3️⃣ Vérifier le nom : il doit être exactement <b>icon-192.png</b><br>
+4️⃣ <b>Commit changes</b> ✅
+</div>
+</body>
+</html>
